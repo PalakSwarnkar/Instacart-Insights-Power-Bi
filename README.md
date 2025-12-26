@@ -7,15 +7,15 @@ and business-ready insights using the Instacart dataset.
 
 ### 🔗 Project Links
 
-**🔍 End-to-End Project Walkthrough**  
+ End-to-End Project Walkthrough**  
 [Explore the complete project approach on Maven Showcase](https://mavenshowcase.com/project/54415)
 
-**📊 Interactive Power BI Dashboard**  
+ Interactive Power BI Dashboard**  
 [Open the live Power BI report to explore insights interactively](https://app.powerbi.com/view?r=eyJrIjoiMjEzMGQyZWEtZmVmNy00MTRkLWE2MWUtZjIzYmFhMGQ3OGU0IiwidCI6IjdlNDY4Y2ZkLTcwZWYtNGE2Mi04NDdhLTFlOTU1MzQ5ZGU5YyIsImMiOjN9)
 
 ---
 
-### 🧠 Key Decisions & Problems Solved
+###  Key Decisions & Problems Solved
 
 **No quantity or revenue available**  
 Each order-product row was treated as one unit.  
