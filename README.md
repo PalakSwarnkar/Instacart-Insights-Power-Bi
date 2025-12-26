@@ -1,17 +1,16 @@
 ## Instacart Orders & Customer Insights (Power BI)
 
-End-to-end Power BI project focused on analytical correctness, data modeling,  
-and business-ready insights using the Instacart dataset.
+*Power BI analytics project built on large-scale Instacart transaction data, designed to derive accurate KPIs, analyze product demand, ordering patterns, and customer behavior through robust data modeling and DAX logic.*
 
 ---
 
 ### 🔗 Project Links
 
- End-to-End Project Walkthrough**  
-[Explore the complete project approach on Maven Showcase](https://mavenshowcase.com/project/54415)
+ End-to-End Project Walkthrough  
+[*Click here to explore the complete project approach on Maven Showcase*](https://mavenshowcase.com/project/54415)
 
- Interactive Power BI Dashboard**  
-[Open the live Power BI report to explore insights interactively](https://app.powerbi.com/view?r=eyJrIjoiMjEzMGQyZWEtZmVmNy00MTRkLWE2MWUtZjIzYmFhMGQ3OGU0IiwidCI6IjdlNDY4Y2ZkLTcwZWYtNGE2Mi04NDdhLTFlOTU1MzQ5ZGU5YyIsImMiOjN9)
+ Interactive Power BI Dashboard  
+[*Open the live Power BI report from here to explore insights interactively*](https://app.powerbi.com/view?r=eyJrIjoiMjEzMGQyZWEtZmVmNy00MTRkLWE2MWUtZjIzYmFhMGQ3OGU0IiwidCI6IjdlNDY4Y2ZkLTcwZWYtNGE2Mi04NDdhLTFlOTU1MzQ5ZGU5YyIsImMiOjN9)
 
 ---
 
